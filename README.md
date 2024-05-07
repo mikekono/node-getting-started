@@ -8,7 +8,7 @@
 
 [NPM repository for Square](https://www.npmjs.com/package/square) - Where the package files are hosted
 
-[Python SDK Source Code](https://github.com/square/square-nodejs-sdk) - Github repo with sdk source code
+[Node SDK Source Code](https://github.com/square/square-nodejs-sdk) - Github repo with sdk source code
 
 ## Quickstart instructions
 
