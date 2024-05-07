@@ -1,0 +1,16 @@
+{
+  "name": "square-node-quickstart",
+  "version": "1.0.0",
+  "description": "Example app showing how to get started with Square and Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Square Developers",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "square": "^35.1.0"
+  }
+}
