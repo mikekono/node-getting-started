@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "legacy": "node legacy.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Square Developers",
